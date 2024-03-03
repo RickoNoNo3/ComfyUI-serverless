@@ -1,7 +1,7 @@
 {
   "10": {
     "inputs": {
-      "ckpt_name": "v1-5-pruned-emaonly.safetensors"
+      "ckpt_name": "interiordesignsuperm.whw5.safetensors"
     },
     "class_type": "CheckpointLoaderSimple"
   },
@@ -47,7 +47,7 @@
   },
   "240": {
     "inputs": {
-      "text": "a photo of a dog",
+      "text": "a photo of a bedroom",
       "clip": [
         "10",
         1
@@ -57,7 +57,7 @@
   },
   "243": {
     "inputs": {
-      "text": "cat",
+      "text": "human, animal",
       "clip": [
         "10",
         1
